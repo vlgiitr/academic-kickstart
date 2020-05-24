@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Sophomore at IIT Roorkee
+role: Junior at IIT Roorkee
 
 # Organizations/Affiliations
 organizations:
