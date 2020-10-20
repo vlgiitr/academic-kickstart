@@ -18,12 +18,13 @@ organizations:
   url: "https://www.iitr.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Deep Learning Research Group
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+# interests:
+# - Artificial Intelligence
+# - Computer Vision
+# - Natural Language Processing
+# - Reinforcement Learning
 
 #education:
 #  courses:
@@ -54,12 +55,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/vlgiitr
-- icon: reddit
+- icon: linkedin
   icon_pack: fab
-  link: 
+  link: https://www.linkedin.com/company/vlgiitr/
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/vlgiitr
 - icon: facebook
   icon_pack: fab
-  link: https://www.facebook.com/pg/vlgiitr/posts/?ref=page_internal
+  link: https://www.facebook.com/vlgiitr
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -81,4 +85,3 @@ The Vision and Language Group, part of the ACM IIT Roorkee Chapter, is a student
 We come together once a week to discuss research papers published in the latest Deep Learning conferences. Besides this, we work on research projects aiming to publish in top research conferences.
 
 Follow us on Facebook or Twitter to receive updates about our activities. Also, drop us an email if you would like to collaborate!
-

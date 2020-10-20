@@ -7,7 +7,7 @@ authors:
 - mangal
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Sophomore at IIT Roorkee
@@ -44,19 +44,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:vlgiitr18@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/vlgiitr
+  link: 'mailto:amangal@cs.iitr.ac.in'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=9TPamcgAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
-  link: https://github.com/vlgiitr
-- icon: reddit
-  icon_pack: fab
-  link:
+  link: https://github.com/ayushtues
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,8 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team Members
+- Third-Year
 ---
 
-The Vision and Language Group, ACM IIT Roorkee Chapter, is a student run group which aims to foster an on-campus research-centric Deep Learning community. The group was formed in 2017 to provide a platform to meet and discuss Deep Learning research papers. The group has since then evolved into a group that focuses on both the theoretical and practical knowledge of Deep Learning. Theoretical aspects are covered in campus-open discussions and brainstorming sessions of recent and renowned Deep Learning papers, while practical applications of ideas include research projects and and paper implementations, so as to have a robust understanding of the field. The group works towards developing the research capabilities of the students in the campus, so that students wanting to pursue research after their degree have a strong foundation to stand on.
-
+Otaku, interested in learning new stuff about anything and everything. Loves anime and good music more than anything (well maybe not more than his laptop). Current  interests involve Computer Vision, Robotics, Finance and business management. Wants to open something of his own somewhere along the road. 

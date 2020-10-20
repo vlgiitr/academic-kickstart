@@ -7,10 +7,10 @@ authors:
 - keerat
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Sophomore at IIT Roorkee
+role: Senior
 
 # Organizations/Affiliations
 organizations:
@@ -54,9 +54,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/vlgiitr
-- icon: reddit
+- icon: facebook
   icon_pack: fab
-  link:
+  link: https://github.com/vlgiitr
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team Members
+- Third-Year
 ---
 
 The Vision and Language Group, ACM IIT Roorkee Chapter, is a student run group which aims to foster an on-campus research-centric Deep Learning community. The group was formed in 2017 to provide a platform to meet and discuss Deep Learning research papers. The group has since then evolved into a group that focuses on both the theoretical and practical knowledge of Deep Learning. Theoretical aspects are covered in campus-open discussions and brainstorming sessions of recent and renowned Deep Learning papers, while practical applications of ideas include research projects and and paper implementations, so as to have a robust understanding of the field. The group works towards developing the research capabilities of the students in the campus, so that students wanting to pursue research after their degree have a strong foundation to stand on.

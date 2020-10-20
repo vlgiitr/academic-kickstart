@@ -1,25 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Workshop 2020"
+title: "Neural Style Transfer"
 subtitle: ""
-summary: "Resources for the workshop on Neural Style Transfer"
+summary: "Workshop "
 authors: []
 tags: []
 categories: []
-date: 2020-03-17T21:08:55+05:30
-lastmod: 2020-03-17T21:08:55+05:30
-featured: false
-draft: false
-external_link: "https://github.com/vlgiitr/workshop_2020"
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+date: "2020-01-30T00:00:00Z"
+
+url_code: "https://github.com/vlgiitr/workshop_2020"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -28,3 +19,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Resource for the workshop conducted by VLG on Neural Style Transfer.
