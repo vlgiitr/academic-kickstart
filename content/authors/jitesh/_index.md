@@ -56,8 +56,19 @@ user_groups:
   - Second-Year
 ---
 
+### Biography
+
 I am a diligent Deep Learning enthusiast, diving deep into the world of Artificial Intelligence, trying to find solutions to the unanswered problems in the field of AI to help humanity.Apart from my interest in Deep Learning Research, I am also interested in Flutter App Development.   
 
 To relax my mind amidst the madness that goes around the world, I listen to pop music and read books (mainly philosphical). I am one of those people who follows cricket as a religion. Do contact me if you want to discuss about pop-music, a little philosphy or anything about cricket.
 
 Visit my WebPage: https://praeclarumjj3.github.io/
+
+### Interests
+
+- Deep Learning
+- Self-Supervised Learning
+- Reinforcement Learning
+- Computer Vision
+- Natural Language Processing
+- Flutter App Development
