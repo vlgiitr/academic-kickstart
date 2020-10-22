@@ -41,6 +41,9 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/praeclarumjj
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jitesh-jain-1451b9192/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

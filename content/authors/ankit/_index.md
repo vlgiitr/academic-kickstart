@@ -44,20 +44,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:vlgiitr18@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ankitbiswas1101@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/vlgiitr
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/ankit_dsi2010
 - icon: github
   icon_pack: fab
-  link: https://github.com/vlgiitr
+  link: https://github.com/ankitdsi2010
 - icon: facebook
   icon_pack: fab
-  link: https://github.com/vlgiitr
-
+  link: https://facebook.com/ankit.biswas.3705/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ankit-biswas-149bb2195/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,5 +72,19 @@ user_groups:
 - Second-Year
 ---
 
-The Vision and Language Group, ACM IIT Roorkee Chapter, is a student run group which aims to foster an on-campus research-centric Deep Learning community. The group was formed in 2017 to provide a platform to meet and discuss Deep Learning research papers. The group has since then evolved into a group that focuses on both the theoretical and practical knowledge of Deep Learning. Theoretical aspects are covered in campus-open discussions and brainstorming sessions of recent and renowned Deep Learning papers, while practical applications of ideas include research projects and and paper implementations, so as to have a robust understanding of the field. The group works towards developing the research capabilities of the students in the campus, so that students wanting to pursue research after their degree have a strong foundation to stand on.
+### Biography
+
+I am a Deep Learning enthusiast and an avid Web Developer. Particularly interested in Reinforcement Learning, I like 
+to explore how to allow computers to learn new things through experience. I like to build new and exciting things.
+
+A Music Lover and a Sci-Fi/Thriller shows addict, I like to keep up with the latest events happening in the world and
+learn new things.
+
+### Interests
+
+- Deep Learning
+- Reinforcement Learning
+- Computer Vision
+- Natural Language Processing
+- Full Stack Web Development
 

@@ -44,19 +44,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:vlgiitr18@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:aaryang01@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/vlgiitr
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/AaryanGarg16
 - icon: github
   icon_pack: fab
-  link: https://github.com/vlgiitr
+  link: https://github.com/Garg-Doppler
 - icon: facebook
   icon_pack: fab
-  link: https://github.com/vlgiitr
+  link: https://www.facebook.com/aaryang/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/garg-doppler/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,5 +72,14 @@ user_groups:
 - Second-Year
 ---
 
-The Vision and Language Group, ACM IIT Roorkee Chapter, is a student run group which aims to foster an on-campus research-centric Deep Learning community. The group was formed in 2017 to provide a platform to meet and discuss Deep Learning research papers. The group has since then evolved into a group that focuses on both the theoretical and practical knowledge of Deep Learning. Theoretical aspects are covered in campus-open discussions and brainstorming sessions of recent and renowned Deep Learning papers, while practical applications of ideas include research projects and and paper implementations, so as to have a robust understanding of the field. The group works towards developing the research capabilities of the students in the campus, so that students wanting to pursue research after their degree have a strong foundation to stand on.
+### Biography
+
+I am an ECE undergrad at IIT Roorkee. I like maths, and that's how I ended up doing DL. Apart from this, I like watching TV shows and reading books (cliché lazy person stuff)
+
+### Interests
+
+- Deep Learning
+- Machine Learning
+- Computer Vision
+
 

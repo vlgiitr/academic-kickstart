@@ -44,19 +44,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:vlgiitr18@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ashutoshchaubey2999@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/vlgiitr
+  link: https://twitter.com/_chaubeyG_
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=8g_xYb0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/vlgiitr
+  link: https://github.com/ac-alpha
 - icon: facebook
   icon_pack: fab
-  link: https://github.com/vlgiitr
+  link: https://facebook.com/chaubeyG29
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ashutosh-chaubey/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,5 +75,17 @@ user_groups:
 - Fourth-Year
 ---
 
-The Vision and Language Group, ACM IIT Roorkee Chapter, is a student run group which aims to foster an on-campus research-centric Deep Learning community. The group was formed in 2017 to provide a platform to meet and discuss Deep Learning research papers. The group has since then evolved into a group that focuses on both the theoretical and practical knowledge of Deep Learning. Theoretical aspects are covered in campus-open discussions and brainstorming sessions of recent and renowned Deep Learning papers, while practical applications of ideas include research projects and and paper implementations, so as to have a robust understanding of the field. The group works towards developing the research capabilities of the students in the campus, so that students wanting to pursue research after their degree have a strong foundation to stand on.
+### Biography
+
+I am a tiny little human being interested in playing with deep neural networks (and a lot of other things). Specific areas of interest include active learning, weak learning and adversarial perturbations. In my free time, I like listening to music and watching tech videos on youtube. I have been a part of VLG since September 2018 and the journey has been wonderful since then. <3
+
+Visit my WebPage: www.ashutoshchaubey.in
+
+### Interests
+
+- Deep Learning
+- Active Learning
+- Adversarial ML
+- Weak Learning
+- Web Development
 

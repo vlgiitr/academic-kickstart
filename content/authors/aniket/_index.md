@@ -44,19 +44,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:vlgiitr18@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:aagarwal@ma.iitr.ac.in'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/vlgiitr
+  link: https://twitter.com/agarwalaniket11
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=oPzYPK0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/vlgiitr
+  link: https://github.com/aniket-agarwal1999
 - icon: facebook
   icon_pack: fab
-  link: https://github.com/vlgiitr
+  link: https://facebook.com/aniket.agarwal.9484941
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jitesh-jain-1451b9192/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,5 +75,14 @@ user_groups:
 - Fourth-Year
 ---
 
-The Vision and Language Group, ACM IIT Roorkee Chapter, is a student run group which aims to foster an on-campus research-centric Deep Learning community. The group was formed in 2017 to provide a platform to meet and discuss Deep Learning research papers. The group has since then evolved into a group that focuses on both the theoretical and practical knowledge of Deep Learning. Theoretical aspects are covered in campus-open discussions and brainstorming sessions of recent and renowned Deep Learning papers, while practical applications of ideas include research projects and and paper implementations, so as to have a robust understanding of the field. The group works towards developing the research capabilities of the students in the campus, so that students wanting to pursue research after their degree have a strong foundation to stand on.
+### Biography
+
+Music Lover with a weird sense of humour (cringey enough to laugh in pity). Highly interested in mathematical and theoretical aspects of Deep Learning, and also to solve general CV problems in the field of Graphical Deep Learning, Generative Modelling, etc. Would mostly be seen watching The Office in my free time, and arguing why it is way better than Friends :)
+
+### Interests
+
+- Deep Learning
+- Graphical Deep Learning
+- Computer Vision
+- Generative Modelling
 
