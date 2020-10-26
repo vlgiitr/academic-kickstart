@@ -80,8 +80,8 @@ email: ""
 #- Visitors
 ---
 
-The Vision and Language Group, part of the ACM IIT Roorkee Chapter, is a student run group which aims to foster a research-centric Deep Learning community at IIT Roorkee.
+The Vision and Language Group, part of [ACM IIT Roorkee Chapter](http://iitr.acm.org/#/), is a student run group that aims to foster a research-centric Deep Learning Community at IIT Roorkee. We regularly hold open discussions on various DL, CV, NLP papers presented in the latest conferences/journals and also on various general topics pertaining to the Deep Learning field. These discussions are open for anyone to join in.
 
-We come together once a week to discuss research papers published in the latest Deep Learning conferences. Besides this, we work on research projects aiming to publish in top research conferences.
+Apart from this, the group members are also involved in various research based projects, sometimes in collaboration with other professors, with the ultimate goal to bring forth a positive impact in a sub-field we are interested in and also aim for some of the tier-1 conferences.
 
-Follow us on Facebook or Twitter to receive updates about our activities. Also, drop us an email if you would like to collaborate!
+We are constantly looking for new collaborations, so do contact us if you find our work interesting. Also you can follow us up on Facebook and Twitter to receive updates about our activities.

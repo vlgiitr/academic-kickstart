@@ -16,4 +16,4 @@ url_video: ""
 projects: []
 ---
 
-Code for the paper - 'Neural Turing Machines' by Alex Graves, Greg Wayne and Ivo Danihelka
+This repository is a stable Pytorch implementation of a Neural Turing Machine and contains the code for training, evaluating and visualizing results for the Copy, Repeat Copy, Associative Recall and Priority Sort tasks. The code has been tested for all 4 tasks and the results obtained are in accordance with the results mentioned in the paper.

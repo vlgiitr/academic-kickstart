@@ -1,10 +1,10 @@
 +++
 title = "Less Wrong COVID-19 Projections With Interactive Assumptions"
-date = 2018-06-06T00:00:00
+date = 2020-09-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Aditya Nagori", "Raghav Awasthi", "Vineet Joshi", "Suryatej Reddy Vyalla", "Akhil Jarodia", "Chandan Gupta",    "Amogh Gulati", "Harsh Bandhey", "Keerat Kaur Guliani", "Mehrab Singh Gill", "Ponnurangam Kumaraguru", "Tavpritesh Sethi"]
+authors = ["Aditya Nagori", "Raghav Awasthi", "Vineet Joshi", "Suryatej Reddy Vyalla", "Akhil Jarodia", "Chandan Gupta",    "Amogh Gulati", "Harsh Bandhey", "Keerat Kaur Guliani*", "Mehrab Singh Gill", "Ponnurangam Kumaraguru", "Tavpritesh Sethi"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ authors = ["Aditya Nagori", "Raghav Awasthi", "Vineet Joshi", "Suryatej Reddy Vy
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Under Review"
+publication = "medRXIV"
 publication_short = "Under Review"
 
 # Abstract and optional shortened version.

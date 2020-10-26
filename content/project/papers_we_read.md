@@ -16,5 +16,5 @@ url_video: ""
 projects: []
 ---
 
-Summaries of the papers published at Top-Tier Conferences. 
+The repo contains summaries of various papers we discuss in our regular discussions and also some other recent papers which we feel have some really exciting contributions for the field.
 

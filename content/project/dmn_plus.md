@@ -23,5 +23,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 
-Pytorch implementation of the paper Dynamic Memory Network for Visual and Textual Question Answering.
+This is the Pytorch implementation of the paper Dynamic Memory Network for Visual and Textual Question Answering. This paper is an improved version of the original paper Ask Me Anything: Dynamic Memory Networks for Natural Language Processing. The major difference between these ideas is in the functioning of the input module and the memory module which has been explained in detail in the IPython notebook file of this repo.
+
 

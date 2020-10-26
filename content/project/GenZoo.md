@@ -23,6 +23,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 
-GenZoo is a repository that provides implementations of generative models in various frameworks, namely Tensorflow and Pytorch.
+GenZoo is a repository that provides implementations of generative models in various frameworks, namely Tensorflow and Pytorch. This was a project taken up by VLG-IITR for the summers of 2019, done with the collaborative efforts of various students.
+
 
 

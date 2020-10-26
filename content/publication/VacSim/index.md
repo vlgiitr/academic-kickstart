@@ -1,10 +1,10 @@
 +++
 title = "VacSIM: Learning Effective Strategies for COVID-19 Vaccine Distribution using Reinforcement Learning"
-date = 2018-09-14T00:00:00
+date = 2020-09-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Raghav Awasthi", "Keerat Kaur Guliani", "Arshita Bhatt", "Mehrab Singh Gill", "Aditya Nagori", "Ponnurangam Kumaraguru", "Tavpritesh Sethi"]
+authors = ["Raghav Awasthi", "Keerat Kaur Guliani*", "Arshita Bhatt", "Mehrab Singh Gill", "Aditya Nagori", "Ponnurangam Kumaraguru", "Tavpritesh Sethi"]
 
 # Publication type.
 # Legend:
