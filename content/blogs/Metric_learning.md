@@ -1,5 +1,5 @@
 ---
-title: "Metric Learning: It’s all about the Distance"
+title: "Metric Learning: It’s all about the Distance (Medium)"
 date: 2020-09-30
 math: false
 diagram: false

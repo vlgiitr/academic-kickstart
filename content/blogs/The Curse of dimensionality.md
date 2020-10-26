@@ -1,5 +1,5 @@
 ---
-title: The Curse of Dimensionality
+title: The Curse of Dimensionality  (Medium)
 date: 2020-06-11
 math: false
 diagram: false

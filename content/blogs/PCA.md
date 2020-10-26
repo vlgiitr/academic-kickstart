@@ -1,5 +1,5 @@
 ---
-title: "Principal Component Analysis"
+title: "Principal Component Analysis (Medium)"
 date: 2020-06-03
 math: false
 diagram: false

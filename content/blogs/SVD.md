@@ -1,5 +1,5 @@
 ---
-title: Singular Value Decomposition
+title: Singular Value Decomposition (Medium)
 date: 2020-05-26
 math: false
 diagram: false

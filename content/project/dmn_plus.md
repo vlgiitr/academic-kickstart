@@ -5,7 +5,6 @@ summary: "Paper Implementation"
 date: "2018-06-08T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
-authors: [Implementation]
 image:
   caption: ""
   focal_point: ""

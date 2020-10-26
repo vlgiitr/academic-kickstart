@@ -26,7 +26,7 @@ We discuss a few fundamental concepts every Wednesday.
 | 30-09-2020    | Attention and Transformer         |[Slides](https://docs.google.com/presentation/d/1JcKHknv3a33eDIJvO72MMfTqYIMJ0cyeJ2LeFtgapXU/edit?usp=sharing)   |
 | 07-10-2020    | ELMo and BERT                     |[Slides](https://drive.google.com/file/d/1cnIyEpPKKp91g5d6vkfzk_k2T07Du2PQ/view?usp=sharing)   |
 | 14-10-2020    | RL-I: MDPs, Bellman Equations     |[Slides-A](https://drive.google.com/file/d/1neAp21D7DUCdnK--5DNaB5HWwSrzeKh7/view?usp=sharing)  [Slides-B](https://drive.google.com/file/d/1HQhnvmZ5hPTxR1b2khlluJyVlqIx7Q16/view?usp=sharing)   |
-| 17-10-2020    | RL-II                             |To be shared   |
-| 17-10-2020    | Graph Neural Networks             |To be shared   |
+| 28-10-2020    | RL-II                             |To be shared   |
+| 04-10-2020    | Graph Neural Networks             |To be shared   |
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Support Vector Machine"
+title: "Support Vector Machine  (Medium)"
 date: 2020-05-15
 math: false
 diagram: false
