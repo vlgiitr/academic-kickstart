@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior
+role: Senior Member
 
 # Organizations/Affiliations
 organizations:
@@ -71,6 +71,8 @@ email: ""
 user_groups:
 - Third-Year
 ---
+
+### Biography
 
 Loves to watch Netflix. Covered a lot of series may we can sometimes discuss abt it a lot. Have a great interest in ML, DL, Data Structures, and Algorithms. I feel mesmerizing to watch my neural networks in training and inaction as well with good accuracies (though the hard part is to code them correctly and confirm that the network is being trained :p).
 

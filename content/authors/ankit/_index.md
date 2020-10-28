@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Junior
+role: Junior Member
 
 # Organizations/Affiliations
 organizations:

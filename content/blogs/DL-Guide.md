@@ -1,5 +1,5 @@
 ---
-title: "Guide to Deep Learning"
+title: "Guide to Deep Learning (Medium)"
 date: 2019-05-17
 math: false
 diagram: false

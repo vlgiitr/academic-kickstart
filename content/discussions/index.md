@@ -29,4 +29,17 @@ We discuss a few fundamental concepts every Wednesday.
 | 28-10-2020    | RL-II                             |To be shared   |
 | 04-10-2020    | Graph Neural Networks             |To be shared   |
 
+### Advanced Discussions
+
+We discuss the latest papers published in top tier conferences on Saturdays.
+
+|<div style="width:75px">Date</div>| Paper 1                                           |<div style="width:120px">Link</div>| Paper 2                                           |<div style="width:120px">Link</div>|
+|------------	|--------------------------------------------------------------------------	|----------------------------------	|---------------------------------------------------------------------------------------------------------------------------	|-----------------------------------	|
+| 01-08-2020          	| Reinforced active  learning for image  segmentation                      	| https://arxiv.org/abs/2002.06583 	| Enhanced POET: Open-Ended Reinforcement  Learning through Unbounded Invention of  Learning Challenges and their Solutions 	| https://arxiv.org/abs/2003.08536  	|
+| 08-08-2020 | Towards Recognizing  Unseen Categories in  Unseen Domains                	| https://arxiv.org/abs/2007.12256 	| Neural Arithmetic Units                                                                                                   	| https://arxiv.org/abs/2001.05016  	|
+| 29-08-2020 | Learning Memory  Access Patterns                                         	| https://arxiv.org/abs/1803.02329 	| Equalization Loss for Long-Tailed  Object Recognition                                                                     	| https://arxiv.org/abs/2003.05176  	|
+| 05-09-2020 | PnPNet: End-to-End  Perception and Prediction  with Tracking in the Loop 	| https://arxiv.org/abs/2005.14711 	| CutMix: Regularization Strategy to Train  Strong Classifiers with Localizable  Features                                   	| https://arxiv.org/abs/1905.048993 	|
+| 26-09-2020 | Adversarial Continual  Learning                                          	| https://arxiv.org/abs/2003.09553 	| Decentralized Reinforcement Learning:  Global Decision-Making via Local  Economic Transactions                            	| https://arxiv.org/abs/2007.02382  	|
+| 10-10-2020 | Implicit Latent Variable  Model for Scene-Consistent  Motion Forecasting 	| https://arxiv.org/abs/2007.12036 	| Large Batch Optimization for Deep Learning:  Training BERT in 76 minutes                                                  	| https://arxiv.org/abs/1904.00962  	|
+
 

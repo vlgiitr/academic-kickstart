@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior
+role: Senior Member
 
 # Organizations/Affiliations
 organizations:
@@ -74,12 +74,12 @@ user_groups:
 
 ### Biography
 
-I am exploring different domains of Computer Science, and I am particularly interested in Deep Learning, specifically NLP, and backend development. I am a voracious reader with an insatiable hunger for classics!
+Exploring different domains of Computer Science and particularly interested in Deep Learning, specifically NLP, and backend development. Reading on finance and philosophy on the side as well. Also, a voracious reader with an insatiable hunger for classics.
 
 Visit my WebPage: https://kaairagupta.github.io/
 
 ### Interests
 
-- Deep Learning
+- Android and cross platform application development
 - Natural Language Processing
 - Backend Development

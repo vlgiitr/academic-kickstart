@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior
+role: Senior Member
 
 # Organizations/Affiliations
 organizations:
@@ -75,6 +75,8 @@ email: ""
 user_groups:
 - Third-Year
 ---
+
+### Biography
 
 Diving deep to learn how things are happening at the base level is what I do. Also, I love to celebrate my birthday because before that, I was in 9 months quarantine, and I hate quarantine. 
 
