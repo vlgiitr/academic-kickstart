@@ -51,9 +51,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/KaairaGupta
-- icon: facebook
-  icon_pack: fab
-  link: https://facebook.com/kaaira.gupta.79
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/kaaira-gupta/
@@ -74,7 +71,7 @@ user_groups:
 
 ### Biography
 
-Exploring different domains of Computer Science and particularly interested in Deep Learning, specifically NLP, and backend development. Reading on finance and philosophy on the side as well. Also, a voracious reader with an insatiable hunger for classics.
+Exploring different domains of Computer Science and particularly interested in Deep Learning, specifically NLP, and backend development. Reading finance and philosophy on the side as well. Also, a voracious reader with an insatiable hunger for classics.
 
 Visit my WebPage: https://kaairagupta.github.io/
 
