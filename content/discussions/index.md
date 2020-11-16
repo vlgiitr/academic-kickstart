@@ -41,5 +41,6 @@ We discuss the latest papers published in top tier conferences on Saturdays.
 | 26-09-2020 | Adversarial Continual  Learning                                          	| https://arxiv.org/abs/2003.09553 	| Decentralized Reinforcement Learning:  Global Decision-Making via Local  Economic Transactions                            	| https://arxiv.org/abs/2007.02382  	|
 | 10-10-2020 | Implicit Latent Variable  Model for Scene-Consistent  Motion Forecasting 	| https://arxiv.org/abs/2007.12036 	| Large Batch Optimization for Deep Learning:  Training BERT in 76 minutes                                                  	| https://arxiv.org/abs/1904.00962  	|
 | 31-10-2020 | Causal Discovery with Reinforcement Learning 	| https://arxiv.org/abs/1906.04477 	| What Should Not Be Contrastive in Contrastive Learning                                                  	| https://arxiv.org/abs/2008.05659 	 |
+| 07-11-2020 | Dual Super-Resolution Learning for Semantic Segmentation 	| https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf	| Neural Architecture Search without Training Learning                                                  	| https://arxiv.org/abs/2006.04647 	 |
 
 
