@@ -11,7 +11,7 @@ We conduct two discussions every week where we dicuss the basic concepts and rec
 
 ### Basic Discussions
 
-We discuss a few fundamental concepts every Wednesday. 
+We discuss a few fundamental concepts on Wednesdays. 
 
 |     Date      |               Topic               |    Resources   |
 | --------------| ----------------------------------|----------------|
@@ -26,7 +26,7 @@ We discuss a few fundamental concepts every Wednesday.
 | 30-09-2020    | Attention and Transformer         |[Slides](https://docs.google.com/presentation/d/1JcKHknv3a33eDIJvO72MMfTqYIMJ0cyeJ2LeFtgapXU/edit?usp=sharing)   |
 | 07-10-2020    | ELMo and BERT                     |[Slides](https://drive.google.com/file/d/1cnIyEpPKKp91g5d6vkfzk_k2T07Du2PQ/view?usp=sharing)   |
 | 14-10-2020    | RL-I: MDPs, Bellman Equations     |[Slides-A](https://drive.google.com/file/d/1neAp21D7DUCdnK--5DNaB5HWwSrzeKh7/view?usp=sharing)  [Slides-B](https://drive.google.com/file/d/1HQhnvmZ5hPTxR1b2khlluJyVlqIx7Q16/view?usp=sharing)   |
-| 11-11-2020    | Graph Neural Networks             |To be shared   |
+| 11-11-2020    | Graph Neural Networks             |[Slides](https://drive.google.com/file/d/1CUCpubZElLWfnCi-JPE5mUXLgb-Bzyfo/view?usp=sharing)   |
 
 ### Advanced Discussions
 
@@ -42,5 +42,6 @@ We discuss the latest papers published in top tier conferences on Saturdays.
 | 10-10-2020 | Implicit Latent Variable  Model for Scene-Consistent  Motion Forecasting 	| https://arxiv.org/abs/2007.12036 	| Large Batch Optimization for Deep Learning:  Training BERT in 76 minutes                                                  	| https://arxiv.org/abs/1904.00962  	|
 | 31-10-2020 | Causal Discovery with Reinforcement Learning 	| https://arxiv.org/abs/1906.04477 	| What Should Not Be Contrastive in Contrastive Learning                                                  	| https://arxiv.org/abs/2008.05659 	 |
 | 07-11-2020 | Dual Super-Resolution Learning for Semantic Segmentation 	| https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Dual_Super-Resolution_Learning_for_Semantic_Segmentation_CVPR_2020_paper.pdf	| Neural Architecture Search without Training Learning                                                  	| https://arxiv.org/abs/2006.04647 	 |
+| 28-11-2020 | Super-Convergence: Very Fast Training of Neural Networks Using Large Learning Rates 	| https://arxiv.org/abs/1708.07120	| ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators                              | https://iclr.cc/virtual_2020/poster_r1xMH1BtvB.html 	 |
 
 
