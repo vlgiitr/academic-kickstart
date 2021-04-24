@@ -15,8 +15,8 @@ We discuss a few fundamental concepts on Wednesdays.
 
 |     Date      |               Topic               |    Resources   |
 | --------------| ----------------------------------|----------------|
-| 14-04-2021    | Linear Algebra                    | To be Added    |
-| 21-04-2021    | Probability and Stats             | To be Added    |
+| 14-04-2021    | Linear Algebra                    | [Slides](https://docs.google.com/presentation/d/1rHrOqCQUuqUuKzB_BmXECXc0yC0IXJXdsym35gNJQlY/edit?usp=sharing)    |
+| 21-04-2021    | Probability and Stats             | [Slides](https://drive.google.com/file/d/1l6DZk87_LxOqlfuDejCd2p7bkndRplDk/view?usp=sharing)    |
 | 28-04-2021    | Neural Networks and CNNs          | To be Added    |
 | 05-05-2021    | Basic CNN architectures           | To be Added    |
 | 12-05-2021    | RNNs                              | To be Added    |
