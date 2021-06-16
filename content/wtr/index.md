@@ -20,7 +20,7 @@ header:
 </div>
 <br/><br/>
 
-Hello fellow scholars, VLG is organising **Weekend Talks with reseachers** this weekend. A two day culmination of researchers from different fields sharing their work and experience. Join us on 26th July.
+**Weekend Talks with researchers** is a two day event where researchers from different fields will share their work and experience. Join us on 26 June and 27 June 2021 for the event.
 
 ### Schedule
 ----
@@ -28,15 +28,16 @@ Hello fellow scholars, VLG is organising **Weekend Talks with reseachers** this 
 
 |<center>Time</center>|<center>Speaker</center>|<center>Affiliation</center>|<center>Topic</center>                                          |<center>Venue</center>|
 |:-------------------:|:----------------------:|:--------------------------:|:--------------------------------------------------------------:|:--------------------:|
-|1600 hrs             | Speaker 1              | Professor                  | Topic 1                                                        |  [example_link.com]()|
-|1800 hrs             | Speaker 2              | Professor                  | Topic 2                                                        |  [example_link.com]()|
-|2000 hrs             | Speaker 3              | Professor                  | Topic 3                                                        |  [example_link.com]()|
+|1600 hrs             | Speaker 1              | Organization               | Topic 1                                                        |  [example_link.com]()|
+|1800 hrs             | Speaker 2              | Organization               | Topic 2                                                        |  [example_link.com]()|
+|2000 hrs             | Speaker 3              | Organization               | Topic 3                                                        |  [example_link.com]()|
 ------------------------
 
 #### Day 2: 27 June 2021
 
 |<center>Time</center>|<center>Speaker</center>|<center>Affiliation</center>|<center>Topic</center>                                          |<center>Venue</center>|
 |:-------------------:|:----------------------:|:--------------------------:|:--------------------------------------------------------------:|:--------------------:|
-|1600 hrs             | Dr. Lenoard Hofstader  | Professor                  | Observing leptons in zero gravity                              |  [example_link.com]()|
-|1800 hrs             | Dr. Sheldon Cooper     | Professor                  | Dark matter and String Theory                                  |  [example_link.com]()|
-|2000 hrs             | Mr. Howard Wolowitz    | Engineer                   | How to get a women drive a mars rover                          |  [example_link.com]()|
+|1600 hrs             | Speaker 1              | Organization               | Topic 1                                                        |  [example_link.com]()|
+|1800 hrs             | Speaker 2              | Organization               | Topic 2                                                        |  [example_link.com]()|
+|2000 hrs             | Speaker 3              | Organization               | Topic 3                                                        |  [example_link.com]()|
+------------------------
