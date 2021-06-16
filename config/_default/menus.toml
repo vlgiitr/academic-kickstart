@@ -24,24 +24,29 @@
   weight = 30
 
 [[main]]
+  name = "WTR"
+  url = "wtr/"
+  weight = 50
+
+[[main]]
   name = "Blogs"
   url = "blogs/"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Discussions"
   url = "discussions/"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Team"
   url = "team/"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
