@@ -19,4 +19,10 @@ weight: 10
 </div>
 <br/><br/>
 
-**DRE - Deep Learning Research Expo** is a two day event where researchers from different fields will share their work and experience. Join us on 26 June and 27 June 2021 for the event.
+Presenting DRE: Deep Learning Expo, a two-day event where researchers from different parts of the world and various areas of research shall give their talks about cutting edge research in their field of expertise along with their experience.
+
+The event's primary audience will be the undergraduates, making DRE the first such event ever organized at IIT Roorkee by the student community alone.
+
+We start the 1st day with an inaugural session to give a brief overview of the proceedings, followed by a short intro to DL for students not so informed about the field.
+
+Along with the talks of highly respected professors and leaders in the industry, there will also be QnA sessions with various IITR alumni who have been highly successful in Deep Learning Research.
