@@ -24,8 +24,8 @@
   weight = 30
 
 [[main]]
-  name = "WTR"
-  url = "wtr/"
+  name = "DRE"
+  url = "dre/"
   weight = 50
 
 [[main]]
