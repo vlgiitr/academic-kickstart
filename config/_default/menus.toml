@@ -24,11 +24,6 @@
   weight = 30
 
 [[main]]
-  name = "DRE"
-  url = "dre/"
-  weight = 50
-
-[[main]]
   name = "Blogs"
   url = "blogs/"
   weight = 60
