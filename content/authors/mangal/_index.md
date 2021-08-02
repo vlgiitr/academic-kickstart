@@ -9,6 +9,11 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+
+weight : 40
+
+
+
 # Role/position
 role: Senior Member
 
@@ -47,10 +52,13 @@ social:
   link: 'mailto:amangal@cs.iitr.ac.in'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=9TPamcgAAAAJ&hl=en&authuser=1
+  link: https://scholar.google.com/citations?user=9TPamcgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/ayushtues
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/ayushtues/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -64,7 +72,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Third-Year
+- Fourth-Year
 ---
 
-Otaku, interested in learning new stuff about anything and everything. Loves anime and good music more than anything (well maybe not more than his laptop). Current  interests involve Computer Vision, Robotics, Finance and business management. Wants to open something of his own somewhere along the road. 
+Otaku, interested in learning new stuff about anything and everything. Loves anime and good music more than anything. Current interests involve Computer Vision, Robotics, Finance and business management. Wants to open something of his own somewhere along the road.
+
+Visit my webpage : https://ayushtues.github.io/

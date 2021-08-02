@@ -9,6 +9,8 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+weight : 120
+
 # Role/position
 role: Research Engineer, Liv.ai
 

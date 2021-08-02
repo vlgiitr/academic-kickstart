@@ -9,8 +9,13 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+
+weight : 40
+
+
+
 # Role/position
-role: Co-President
+role: Data Scientist at LG Ads
 
 # Organizations/Affiliations
 organizations:
@@ -72,7 +77,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Fourth-Year
+- Alumni
 ---
 
 ### Biography

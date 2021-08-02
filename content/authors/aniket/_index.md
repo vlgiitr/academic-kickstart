@@ -9,8 +9,10 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+weight : 10
+
 # Role/position
-role: Co-President
+role: Speaker supercalifragilisticexpialidocious
 
 # Organizations/Affiliations
 organizations:
@@ -72,7 +74,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Fourth-Year
+- Fifth-Year
 ---
 
 ### Biography

@@ -9,8 +9,10 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+weight : 10
+
 # Role/position
-role: Senior Member
+role: Co-President
 
 # Organizations/Affiliations
 organizations:
@@ -50,7 +52,7 @@ social:
   link: https://twitter.com/OmkarBh59233217
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=hBvIoLMAAAAJ&hl=en
+  link: https://scholar.google.com/citations?hl=en&authuser=4&user=hBvIoLMAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/ohumkar
@@ -72,16 +74,14 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Third-Year
+- Fourth-Year
 ---
 
 ### Biography
 
-A versatile research-oriented undergrad student at IIT Roorkee.
-Passionate about cutting-edge AI with applications in Computer Vision and Natural Language Processing having prior experience in UI/UX Design
+A versatile research-oriented undergrad student at IIT Roorkee. Passionate about cutting-edge AI with applications in Computer Vision and Natural Language Processing having  experience in Production & Industrial Engineering
 
-I dig Sci-Fi stuff, Design, and Psychology
-In search of the Red Pill :p
+Love diving into deep conversations on design, psychology, and spirituality
 
 ### Interests
 

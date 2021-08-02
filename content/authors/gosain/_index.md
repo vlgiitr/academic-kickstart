@@ -9,6 +9,8 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+weight : 130
+
 # Role/position
 role: Rubrik India
 

@@ -9,6 +9,8 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+weight : 70
+
 # Role/position
 role: Senior Member
 
@@ -51,6 +53,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/KeeratKG
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ZuHZi3gAAAAJ&hl=en&authuser=1&oi=ao
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/keerat.guliani/
@@ -69,12 +74,14 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Third-Year
+- Fourth-Year
 ---
 
 ### Biography
 
-Researcher-in-the-making. Driven by impact, highly interested in using AI as a tool for social good. Passionate Debater. Badminton enthusiast. Totally a conversationalist. Busy bee, but definitely not a workaholic #work_life_balance_is_important ;D
+Researcher-in-the-making. Interested in data-driven decision making to make the world a better place. Passionate debater and Badminton enthusiast. Busy bee but not a workaholic :)
+
+Visit my webpage : https://kkguliani.netlify.app/
 
 ### Interests
 

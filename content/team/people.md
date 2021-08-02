@@ -15,6 +15,7 @@ subtitle = ""
   user_groups = ["Fourth-Year",
                  "Third-Year",
                  "Second-Year",
+                 "Fifth-Year",
                  "Alumni"]
 
 [design]

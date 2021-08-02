@@ -1,16 +1,18 @@
 ---
 # Display name
-title: Aaryan Garg
+title: Sarthak Gupta
 
 # Username (this should match the folder name)
 authors:
-- aaryan
+- sarthak
 
 # Is this the primary user of the site?
 superuser: false
 
+weight : 70
+
 # Role/position
-role: Junior Member
+role: Sophomore
 
 # Organizations/Affiliations
 organizations:
@@ -44,19 +46,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:aaryang01@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/AaryanGarg16
+  link: 'mailto:mrsarthakgupta@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/Garg-Doppler
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/aaryang/
+  link: https://github.com/mr-sarthakgupta
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/garg-doppler/
+  link: https://www.linkedin.com/in/sarthak-gupta-130045202/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,12 +70,5 @@ user_groups:
 
 ### Biography
 
-I am an ECE undergrad at IIT Roorkee. I like maths, and that's how I ended up doing DL. Apart from this, I like watching TV shows and reading books (cliché lazy person stuff)
-
-### Interests
-
-- Deep Learning
-- Machine Learning
-- Computer Vision
-
+Going deep in learning.
 

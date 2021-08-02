@@ -9,6 +9,8 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+weight : 50
+
 # Role/position
 role: Junior Member
 
@@ -56,7 +58,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Second-Year
+  - Third-Year
 ---
 
 ### Biography
@@ -66,12 +68,3 @@ I am a diligent Deep Learning enthusiast, diving deep into the world of Artifici
 To relax my mind amidst the madness that goes around the world, I listen to pop music and read books (mainly philosphical). I am one of those people who follows cricket as a religion. Do contact me if you want to discuss about pop-music, a little philosphy or anything about cricket.
 
 Visit my WebPage: https://praeclarumjj3.github.io/
-
-### Interests
-
-- Deep Learning
-- Self-Supervised Learning
-- Reinforcement Learning
-- Computer Vision
-- Natural Language Processing
-- Flutter App Development

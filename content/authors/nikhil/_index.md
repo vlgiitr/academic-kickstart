@@ -9,8 +9,13 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+
+weight : 90
+
+
+
 # Role/position
-role: Discussion Head
+role: Software Developer, Bank of New York Mellon
 
 # Organizations/Affiliations
 organizations:
@@ -72,7 +77,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Fourth-Year
+- Alumni
 ---
 
 ### Biography
