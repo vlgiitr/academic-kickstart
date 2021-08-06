@@ -14,7 +14,7 @@ weight : 10
 
 
 # Role/position
-role: Sophomore
+role: Padawan
 
 # Organizations/Affiliations
 organizations:

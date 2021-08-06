@@ -12,7 +12,7 @@ superuser: false
 weight : 10
 
 # Role/position
-role: Speaker supercalifragilisticexpialidocious
+role: Grandmaster Yoda
 
 # Organizations/Affiliations
 organizations:

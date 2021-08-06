@@ -12,7 +12,7 @@ superuser: false
 weight : 70
 
 # Role/position
-role: Sophomore
+role: Padawan
 
 # Organizations/Affiliations
 organizations:

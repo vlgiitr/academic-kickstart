@@ -9,10 +9,10 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-weight : 80
+weight : 90
 
 # Role/position
-role: Senior Member
+role: Jedi Master
 
 # Organizations/Affiliations
 organizations:

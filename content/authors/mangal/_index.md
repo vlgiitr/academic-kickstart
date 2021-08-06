@@ -15,7 +15,7 @@ weight : 40
 
 
 # Role/position
-role: Senior Member
+role: Jedi Master
 
 # Organizations/Affiliations
 organizations:

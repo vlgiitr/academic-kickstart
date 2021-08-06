@@ -6,13 +6,13 @@ title: Huzaib Ul Hassan
 authors:
 - huazib
 
-weight : 40
+weight : 50
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Junior Member
+role: Jedi Knight
 
 # Organizations/Affiliations
 organizations:
@@ -52,7 +52,7 @@ social:
   link: https://twitter.com/HuzaibUlHassan
 - icon: github
   icon_pack: fab
-  link: https://github.com/Huazib
+  link: https://github.com/Huzaib
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/huzaibul.hassan.9

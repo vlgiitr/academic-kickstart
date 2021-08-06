@@ -1,18 +1,18 @@
 ---
 # Display name
-title: Raghav Arora
+title: Divyam Goel
 
 # Username (this should match the folder name)
 authors:
-- raghav
+- divyam
 
 # Is this the primary user of the site?
 superuser: false
 
-weight : 40
+weight : 50
 
 # Role/position
-role: Padawan
+role: Jedi Master
 
 # Organizations/Affiliations
 organizations:
@@ -46,16 +46,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:raghav_a@ece.iitr.ac.in'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:dgoel@bt.iitr.ac.in'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/raghav-arora3
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/profile.php?id=100057361538392
+  link: https://github.com/dv-fenix
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/raghav-arora-9a1a5920b
+  link: https://www.linkedin.com/in/divyamgoel3/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,10 +65,12 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Second-Year
+- Fourth-Year
 ---
 
 ### Biography
 
-IIT Roorkee ECE student. Deep Learning and Machine Learning enthusiast. I like troubling myself with new challenges. If you trouble data long enough, it will confess.
+I enjoy using mathematics and computational tools in applied settings to solve challenging problems of scientific and societal value. I am passionate about research in embodied agents and multimodal deep learning. I also happen to be a football fanatic and a music geek. Unpopular opinion - post Syd Pink Floyd is miles better than with Syd :)
+
+Visit my website at : https://dv-fenix.github.io/
 

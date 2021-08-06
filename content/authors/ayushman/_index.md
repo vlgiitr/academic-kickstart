@@ -15,7 +15,7 @@ weight : 20
 
 
 # Role/position
-role: Junior Member
+role: Jedi Knight
 
 # Organizations/Affiliations
 organizations:
