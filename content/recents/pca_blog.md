@@ -1,5 +1,5 @@
 ---
-title: "New Blog on Principal Component Analysis on Medium !"
+title: "New Blog on Principal Component Analysis on Medium!"
 date: 2020-06-03
 ---
 

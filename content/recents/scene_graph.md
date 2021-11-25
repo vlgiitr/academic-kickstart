@@ -1,5 +1,5 @@
 ---
-title: "Preprint out for the paper: Visual Relationship Detection using Scene Graphs: A Survey !"
+title: "Preprint out for the paper: Visual Relationship Detection using Scene Graphs: A Survey!"
 date: 2020-05-16
 ---
 

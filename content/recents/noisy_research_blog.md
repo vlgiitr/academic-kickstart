@@ -1,5 +1,5 @@
 ---
-title: "New Blog on Learnings during reasearch published on Medium !"
+title: "New Blog on Learnings during research published on Medium!"
 date: 2021-07-28
 ---
 

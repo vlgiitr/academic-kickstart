@@ -1,5 +1,5 @@
 ---
-title: "Preprint out for the paper: DEAP Cache: Deep Eviction Admission and Prefetching for Cache !"
+title: "Preprint out for the paper: DEAP Cache: Deep Eviction Admission and Prefetching for Cache!"
 date: 2020-09-19
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "New Blog on Metric Learning Published on Medium !"
+title: "New Blog on Metric Learning Published on Medium!"
 date: 2020-09-30
 ---
 

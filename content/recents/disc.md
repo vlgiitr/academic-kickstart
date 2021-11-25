@@ -1,5 +1,5 @@
 ---
-title: "The Basic and Advanced Discussions for the Autumn Semester (2020-21) restart !"
+title: "The Basic and Advanced Discussions for the Autumn Semester (2020-21) restart!"
 date: 2020-08-01
 ---
 

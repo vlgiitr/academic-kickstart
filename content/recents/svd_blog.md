@@ -1,5 +1,5 @@
 ---
-title: "New Blog on Singular Value Decomposition on Medium !"
+title: "New Blog on Singular Value Decomposition on Medium!"
 date: 2020-05-26
 ---
 

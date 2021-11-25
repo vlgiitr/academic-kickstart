@@ -1,5 +1,5 @@
 ---
-title: "Preprint out for the paper: Universal Adversarial Perturbations: A Survey !"
+title: "Preprint out for the paper: Universal Adversarial Perturbations: A Survey!"
 date: 2020-05-16
 ---
 

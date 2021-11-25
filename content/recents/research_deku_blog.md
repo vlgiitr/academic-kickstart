@@ -1,5 +1,5 @@
 ---
-title: "New Blog on Researching as an Undergrad Published on Medium !"
+title: "New Blog on Researching as an Undergrad Published on Medium!"
 date: 2021-07-23
 ---
 

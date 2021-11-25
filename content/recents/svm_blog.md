@@ -1,5 +1,5 @@
 ---
-title: "New Blog on Support Vector Machines on Medium !"
+title: "New Blog on Support Vector Machines on Medium!"
 date: 2020-05-15
 ---
 

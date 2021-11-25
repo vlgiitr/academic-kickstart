@@ -1,5 +1,5 @@
 ---
-title: "New Blog on Optimizers Published on Medium !"
+title: "New Blog on Optimizers Published on Medium!"
 date: 2021-06-17
 ---
 

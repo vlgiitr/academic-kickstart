@@ -20,8 +20,7 @@ We discuss a few fundamental concepts on Wednesdays.
 | 25-08-2021    | VAE                               | [Slides](https://docs.google.com/presentation/d/1HFygX3n7pjUJ35gVG-g7vP0dXiqevhtcGhT-SMtURX8/edit)    |
 | 01-09-2021    | Sequence Modelling                | [Slides](https://docs.google.com/presentation/d/1DECew5g-z7jMBp-pwFmw_r87FdI3Ci7I/edit)               |
 | 08-09-2021    | Transformers and Attention        | [Slides](https://docs.google.com/presentation/d/1p-A5TRKe2YJTkaA6O8wUMNlyHJDYsRrC8Suihuy-HWs/edit)    |
-| 29-09-2021    | Reinforcement Learning            | [Slides](https://docs.google.com/presentation/d/1roMFcU5rfLrdB4RKndg7bENj6aYrTxBx/edit)               |
-| 06-10-2021    | Lifelong Learning                 | To Be Added                                                                                           |
+| 29-09-2021    | Reinforcement Learning            | [Slides](https://docs.google.com/presentation/d/1roMFcU5rfLrdB4RKndg7bENj6aYrTxBx/edit)               |                                                                                         |
 
 ### Workshops
 

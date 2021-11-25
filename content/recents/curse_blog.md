@@ -1,5 +1,5 @@
 ---
-title: "New Blog on Curse of Dimensionality Published on Medium !"
+title: "New Blog on Curse of Dimensionality Published on Medium!"
 date: 2020-06-11
 ---
 
