@@ -12,10 +12,15 @@ We conduct discussions every week where we dicuss  and recent advancements in th
 
 ### Discussions
 
-|     Date      |               Topic               |    Resources   |
-| --------------| ----------------------------------|----------------|
-| 22-01-2022    | Neural Rendering                  | [Google Doc](https://docs.google.com/document/d/1fQHY84F6KtBQ3Cok7KOugcBp9w2VMi-uKhQJNTjyJE4/edit?usp=sharing)|
+|     Date      |               Topic               |
+| --------------| ----------------------------------|
+| 22-01-2022    | Neural Rendering                  |
+| 29-01-2022    | Multi-Model AI                    |
+| 05-02-2022    | Transformers                      |
+| 12-02-2022    | AlphaCode                         |
+| 19-02-2022    | Cross-breeding Transformers and CNNs|
 
+- All the resources for this semester are compiled [here](https://cliff-tv-2e1.notion.site/VLG-Discussion-Resources-0a370b2c4aa34ba88580e8fcd0403de1)
 
 ### Previous Semester Discussions
 
