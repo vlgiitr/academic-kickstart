@@ -8,10 +8,10 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Recent Activities"
-  url = "#recents"
-  weight = 20
+# [[main]]
+#   name = "Recent Activities"
+#   url = "#recents"
+#   weight = 20
 
 [[main]]
   name = "Projects"
@@ -32,6 +32,11 @@
   name = "Blogs"
   url = "blogs/"
   weight = 60
+
+[[main]]
+  name = "Open Projects"
+  url = "open_projects/"
+  weight = 61
 
 [[main]]
   name = "Discussions"
