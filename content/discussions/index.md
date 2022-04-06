@@ -26,7 +26,7 @@ We conduct discussions every week where we dicuss  and recent advancements in th
 
 |     Date      |               Topic               | Resources |
 | --------------| ----------------------------------|-----------|
-| 19-03-2022    | Transfer Learning                 | [Colab Notebook]()                                                                                      |
+| 19-03-2022    | Transfer Learning                 | [Colab Notebook](https://colab.research.google.com/drive/1-vGmphxTo4Zen2PBp6HSFPg-V9nP5w4i)                                                                                      |
 | 26-03-2022    | Introduction to RL                | [Colab notebook](https://colab.research.google.com/drive/1EhehhDzu5ak5uaC3H0xsRI6OR-Y6Yzzj?usp=sharing) |
 
 - All the resources for this semester are compiled [here](https://cliff-tv-2e1.notion.site/VLG-Discussion-Resources-0a370b2c4aa34ba88580e8fcd0403de1)

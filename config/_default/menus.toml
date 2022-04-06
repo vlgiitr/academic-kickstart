@@ -33,10 +33,15 @@
   url = "blogs/"
   weight = 60
 
+# [[main]]
+#   name = "Open Projects"
+#   url = "open_projects/"
+#   weight = 61
+
 [[main]]
-  name = "Open Projects"
-  url = "open_projects/"
-  weight = 61
+  name = "Recruitments"
+  url = "recruitments/"
+  weight = 62
 
 [[main]]
   name = "Discussions"
