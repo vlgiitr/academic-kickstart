@@ -58,6 +58,8 @@
   }
   .heading-information {
     font-size: 0.64em;
+    line-height: 1.5;
+    font-weight: bold;
   }
   .update-text {
     font-size: 0.64em;
@@ -111,9 +113,9 @@
 
 .heading-information {
   font-family: Nunito Sans;
-  font-weight: normal;
+  font-weight: bold;
   font-size: 1em;
-  line-height: 1.1rem;
+  line-height: 1.5rem;
   color: #878787;
   margin-top: 0.7em;
   margin-bottom: 1.25em;
