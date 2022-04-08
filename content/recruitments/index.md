@@ -11,14 +11,14 @@ header:
 
 <h1 class="main-page-heading">
   <div class="heading-background-box"></div>
-  <div class="heading-text">Recruitment Test</div>
+  <div class="heading-text">Recruitment Test for 1st Year</div>
 </h1>
 <div class="heading-information">
-The primary way to get into VLG. A 6 hours test that that will test your familiarity with deep learning concepts along with your analytical knowledge  <br>
+The primary way for freshers to get into VLG. A 24 hours test that will test your familiarity with deep learning concepts along with a few open-ended questions to analyze your thinking and explaining skills.  <br>
   <br>
-  Test Link : <a href="https://forms.gle/xGaGUVEr9TgcLCk47"> Here </a> <br>
-  Opens At : 8th April 1800 Hrs  <br>
-  Deadline : 8th April 2359 Hrs <br>
+  Test Link : <a href="https://forms.gle/JB8f1GrAQYiGYCkq6"> Here </a> <br>
+  Opens At : 9th April 1200 Hrs  <br>
+  Deadline : 10th April 1200 Hrs <br>
   <br>
 </div>
 
@@ -65,7 +65,7 @@ The primary way to get into VLG. A 6 hours test that that will test your familia
 
 <!-- ----------------------- TimeLine -------------------------------- -->
 
-<section class="timeline-container">
+<!-- <section class="timeline-container">
         <div class="site-container">
           <h1 class="main-page-heading timeline-heading">
             <div class="heading-background-box"></div>
@@ -143,7 +143,7 @@ The primary way to get into VLG. A 6 hours test that that will test your familia
                     7 April 18:00 PM : 11 April 11:59 PM
                   </div>
                 </div>
-              </div>
+              </div> -->
 <!--               <div class="lower-event" event="5">
                 <div class="event-illustration">
                   <img src="/assets/event_icons/4_done.png" />
@@ -226,6 +226,6 @@ The primary way to get into VLG. A 6 hours test that that will test your familia
               </div>
             </div>
           </div> -->
-        </div>
-      </section>
+        <!-- </div>
+      </section> -->
 
