@@ -16,7 +16,7 @@ header:
 <div class="heading-information">
 The primary way to get into VLG. A 6 hours test that that will test your familiarity with deep learning concepts along with your analytical knowledge  <br>
   <br>
-  Test Link : Coming Soon ... <br>
+  Test Link : <a href="https://forms.gle/xGaGUVEr9TgcLCk47"> Here </a> <br>
   Opens At : 8th April 1800 Hrs  <br>
   Deadline : 8th April 2359 Hrs <br>
   <br>
