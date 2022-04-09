@@ -65,7 +65,7 @@ The primary way for freshers to get into VLG. A 24 hours test that will test you
 
 <!-- ----------------------- TimeLine -------------------------------- -->
 
-<!-- <section class="timeline-container">
+<section class="timeline-container">
         <div class="site-container">
           <h1 class="main-page-heading timeline-heading">
             <div class="heading-background-box"></div>
@@ -143,7 +143,7 @@ The primary way for freshers to get into VLG. A 24 hours test that will test you
                     7 April 18:00 PM : 11 April 11:59 PM
                   </div>
                 </div>
-              </div> -->
+              </div>
 <!--               <div class="lower-event" event="5">
                 <div class="event-illustration">
                   <img src="/assets/event_icons/4_done.png" />
