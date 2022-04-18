@@ -38,10 +38,10 @@
 #   url = "open_projects/"
 #   weight = 61
 
-[[main]]
-  name = "Recruitments"
-  url = "recruitments/"
-  weight = 62
+# [[main]]
+#  name = "Recruitments"
+#  url = "recruitments/"
+#  weight = 62
 
 [[main]]
   name = "Discussions"
