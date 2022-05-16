@@ -8,7 +8,25 @@ header:
 ---
 ---------------------------
 
-We will be conducting open projects. The details will be out soon ...
+## Image Colorization
+
+Desciption: The task of colourizing black and white photographs necessitates a lot of human input and hardcoding. The goal is to create an end-to-end deep learning pipeline that can automate the task of image colorization by taking a black and white image as input and producing a colourized image as output.
+
+Full project description: [Here](https://hackmd.io/@uy-DI5UxSv-1jDGVwxqvFA/SyPf1_AI5)
+
+------
+
+## Super Mario RL Agent
+
+Description: Plying and winning a computer game is a very challenging and rewarding task. People have always tried to develop “smart players” who can learn the game and then ace it. This project aims to build a robust RL agent that can make it through the first level of Super Mario Bros.
+
+Full project description: [Here](https://hackmd.io/@ChanBong/HkCMOPALq)
+
+----
+
+> Form Link to apply to these open projects : https://forms.gle/iiGHAAUSykHEApAL7
+
+Form open till 20th May 2022 EOD
 
 <section class="updates-section">
   <div class="site-container">
@@ -23,6 +41,18 @@ We will be conducting open projects. The details will be out soon ...
         <div class="update-content">
           <div class="update-time">30 March, 2022</div>
           <div class="update-text">Open Projects website announcements</div>
+        </div>
+      </div>
+      <div class="update-item">
+        <div class="update-content">
+          <div class="update-time">16 May, 2022</div>
+          <div class="update-text">Open Projects announced</div>
+        </div>
+      </div>
+      <div class="update-item">
+        <div class="update-content">
+          <div class="update-time">16 May, 2022</div>
+          <div class="update-text">Start accepting form responses for open projects</div>
         </div>
       </div>
 <!--       <div class="update-item">
