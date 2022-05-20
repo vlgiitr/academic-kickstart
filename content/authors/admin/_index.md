@@ -66,7 +66,7 @@ social:
   link: https://www.facebook.com/vlgiitr
 - icon: discord
   icon_pack: fab
-  link: https://discord.gg/66EqPhFK
+  link: https://discord.gg/eaegk3Eb9f
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
