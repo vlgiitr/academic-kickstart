@@ -24,6 +24,4 @@ Full project description: [Here](https://hackmd.io/@ChanBong/HkCMOPALq)
 
 ----
 
-> Form Link to apply to these open projects : https://forms.gle/iiGHAAUSykHEApAL7
-
-Form open till 20th May 2022 EOD
+> Forms closed
