@@ -15,8 +15,8 @@ subtitle = ""
   user_groups = ["Fourth-Year",
                  "Third-Year",
                  "Second-Year",
-                 "Fifth-Year",
-                 "Alumni"]
+                 "Fifth-Year"
+                 ]
 
 [design]
   # Show user's social networking links? (true/false)
