@@ -46,18 +46,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:vlgiitr18@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/vlgiitr
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/vlgiitr
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/vlgiitr
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/company/vlgiitr/
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/company/vlgiitr/
 - icon: medium
   icon_pack: fab
   link: https://medium.com/vlgiitr
@@ -67,6 +67,9 @@ social:
 - icon: discord
   icon_pack: fab
   link: https://discord.gg/eaegk3Eb9f
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/vlgiitr/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

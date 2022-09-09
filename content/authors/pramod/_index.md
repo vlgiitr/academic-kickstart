@@ -71,10 +71,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Fourth-Year
+- Alumni
 ---
 
 ### Biography
 
 Loves to watch Netflix. Covered a lot of series may we can sometimes discuss abt it a lot. Have a great interest in ML, DL, Data Structures, and Algorithms. I feel mesmerizing to watch my neural networks in training and inaction as well with good accuracies (though the hard part is to code them correctly and confirm that the network is being trained :p).
+
 

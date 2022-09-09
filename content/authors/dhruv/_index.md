@@ -12,7 +12,7 @@ superuser: false
 weight : 40
 
 # Role/position
-role: Jedi Knight
+# role: Jedi Knight
 
 # Organizations/Affiliations
 organizations:
@@ -65,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Third-Year
+- Fourth-Year
 ---
 
 ### Biography

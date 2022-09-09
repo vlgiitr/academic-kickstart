@@ -12,7 +12,7 @@ superuser: false
 weight : 70
 
 # Role/position
-role: Padawan
+# role: Padawan
 
 # Organizations/Affiliations
 organizations:
@@ -65,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Second-Year
+- Third-Year
 ---
 
 ### Biography
