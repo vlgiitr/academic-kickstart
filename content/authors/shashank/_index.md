@@ -12,7 +12,7 @@ superuser: false
 weight : 100
 
 # Role/position
-# role: Jedi Knight
+role: Project head
 
 # Organizations/Affiliations
 organizations:

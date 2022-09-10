@@ -12,7 +12,7 @@ weight : 50
 superuser: false
 
 # Role/position
-# role: Jedi Knight
+role: Co-President
 
 # Organizations/Affiliations
 organizations:

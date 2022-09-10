@@ -12,7 +12,7 @@ superuser: false
 weight : 40
 
 # Role/position
-# role: Jedi Knight
+role: Discussion head
 
 # Organizations/Affiliations
 organizations:

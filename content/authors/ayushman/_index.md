@@ -15,7 +15,7 @@ weight : 20
 
 
 # Role/position
-# role: Jedi Knight
+role: ACM Representative
 
 # Organizations/Affiliations
 organizations:
