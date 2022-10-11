@@ -9,7 +9,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-weight : 60
+weight : 10
 
 # Role/position
 role: Co-President

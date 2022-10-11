@@ -9,7 +9,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-weight : 40
+weight : 30
 
 # Role/position
 role: Discussion head

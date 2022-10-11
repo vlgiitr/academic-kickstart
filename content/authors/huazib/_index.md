@@ -6,7 +6,7 @@ title: Huzaib Ul Hassan
 authors:
 - huazib
 
-weight : 50
+weight : 20
 
 # Is this the primary user of the site?
 superuser: false

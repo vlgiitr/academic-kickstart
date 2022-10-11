@@ -9,7 +9,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-weight : 100
+weight : 40
 
 # Role/position
 role: Project head
