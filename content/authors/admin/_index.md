@@ -64,9 +64,12 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/vlgiitr
-- icon: discord
+# - icon: discord
+#   icon_pack: fab
+#   link: https://discord.gg/eaegk3Eb9f
+- icon: slack
   icon_pack: fab
-  link: https://discord.gg/eaegk3Eb9f
+  link: https://join.slack.com/t/vlgopenspace/shared_invite/zt-1isleuvjm-k7qJlPutzcBYRKyXHBGs3Q
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/vlgiitr/
