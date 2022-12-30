@@ -69,7 +69,7 @@ social:
 #   link: https://discord.gg/eaegk3Eb9f
 - icon: slack
   icon_pack: fab
-  link: https://join.slack.com/t/vlgopenspace/shared_invite/zt-1isleuvjm-k7qJlPutzcBYRKyXHBGs3Q
+  link: https://join.slack.com/t/vlgopenspace/shared_invite/zt-1mcy1x2rn-fbUA~u20Myj_ee6HjiUwng
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/vlgiitr/
