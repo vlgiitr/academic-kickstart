@@ -23,21 +23,21 @@ Your familiarity with deep learning concepts will be tested along with a few ope
 
 Submit your ideas in the form of a well drafted proposal
   
-**Sample Project Proposal:** https://hackmd.io/wHJocycPS0O2V_u8olrNEQ
+<!-- **Sample Project Proposal:** https://hackmd.io/wHJocycPS0O2V_u8olrNEQ -->
 
 **Proposal Submission Deadline:** 16th March 11:59pm
 
 # Call For Bloggers
 If you are a passionate writer and wish to share your knowledge and insights into the world of deep learning with our community, send us your articles. We'll be publishing shortlisted ones through the Medium account of VLG. 
 
-**General Tips And Instructions:** https://hackmd.io/bz1y1-E4TBeeCLu6AMfefQ
+<!-- **General Tips And Instructions:** https://hackmd.io/bz1y1-E4TBeeCLu6AMfefQ -->
 
 **Blog submission deadline:** 16th March 11:59pm
  
 # Design Assignment:
 We are also looking for designers to join our team. If you have a creative eye and love designing, we would love to hear from you.
 
-**Problem Statement:** https://www.notion.so/VLG-Design-Assignment-7637b17542874dfb8254a6e7960838e9 
+<!-- **Problem Statement:** https://www.notion.so/VLG-Design-Assignment-7637b17542874dfb8254a6e7960838e9  -->
 
 **Submission Deadline:** 17th March
 
