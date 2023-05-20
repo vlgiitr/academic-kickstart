@@ -34,13 +34,8 @@
   weight = 60
 
 [[main]]
-  name = "Recruitments"
-  url = "recruitments/"
-  weight = 62
-
-[[main]]
-  name = "Discussions"
-  url = "discussions/"
+  name = "Open Projects '23"
+  url = "open_projects/"
   weight = 70
 
 [[main]]
@@ -52,11 +47,6 @@
   name = "Contact"
   url = "#contact"
   weight = 90
-
-[[main]]
-  name = "Archives"
-  url = "archives/"
-  weight = 91
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
