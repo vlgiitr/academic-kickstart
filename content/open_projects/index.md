@@ -9,6 +9,8 @@ header:
 
 You have the four projects below to choose from and you can only pick one. Fill the [form](https://forms.gle/A64BMcAd6E2FTvEQ6) with your choice. Join our Open Slack Community or checkout our Instagram Post for more information.
 
+Form Deadline: 25th May EOD.
+
 Project Deadline: 22nd June 2023.
 
 The project will be verified based on your performance.
