@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Abhishek Sinha
+title: Aayan Yadav
 
 # Username (this should match the folder name)
 authors:
-- abhishek
+- aayan
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,7 +23,8 @@ organizations:
   url: "https://www.iitr.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a student of mathematics and computing at IIT Roorkee. Interested in mathematics and currently exploring the deep learning field. 
+bio: "I am a student who is intrigued by and deeply interested in developments in AI. I am on my path to learn and explore the field and look forward to making contributions that will hopefully help humanity as a whole.In my free time i follow cricket, listen to music and watch movies and webseries."
+
 
 #interests:
 #- Artificial Intelligence
@@ -49,16 +50,19 @@ bio: I am a student of mathematics and computing at IIT Roorkee. Interested in m
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:abhisheksinha763@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=9TPamcgAAAAJ&hl=en
+  link: 'mailto:ydvaayan@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/abhisheksinha763
-- icon: linkedin
+  link: https://github.com/ydvaayan
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/Tanya16224622?s=09
+- icon: facebook
   icon_pack: fab
-  link: https://www.linkedin.com/in/abhishek-sinha-749216269/
+  link: https://www.facebook.com/aayan.yadav.332/
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/tanya-bharti-1b5a66202
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -72,7 +76,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Third-Year
+- Second-Year
 ---
 <!-- 
 Otaku, interested in learning new stuff about anything and everything. Loves anime and good music more than anything. Current interests involve Computer Vision, Robotics, Finance and business management. Wants to open something of his own somewhere along the road.
