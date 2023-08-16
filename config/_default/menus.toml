@@ -34,11 +34,6 @@
   weight = 60
 
 [[main]]
-  name = "Open Projects '23"
-  url = "open_projects/"
-  weight = 70
-
-[[main]]
   name = "Team"
   url = "team/"
   weight = 80
