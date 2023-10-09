@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 
-weight : 40
+weight : 10
 
 
 

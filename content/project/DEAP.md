@@ -3,7 +3,7 @@
 
 title: "Deep Cache Replacement"
 subtitle: ""
-summary: "Paper Implementation"
+summary: "The PyTorch codebase for DEAP Cache: Deep Eviction Admission and Prefetching for Cache."
 tags: []
 categories: []
 date: "2020-09-19T00:00:00Z"
