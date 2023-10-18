@@ -7,15 +7,15 @@ authors:
 - harshit
 
 # Is this the primary user of the site?
-superuser: false
+superuser : false
 
 
-weight : 70
+weight : 10
 
 
 
 # Role/position
-role: Societe Generale
+#role: Societe Generale
 
 # Organizations/Affiliations
 organizations:

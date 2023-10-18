@@ -7,12 +7,12 @@ authors:
 - prakash
 
 # Is this the primary user of the site?
-superuser: false
+superuser : false
 
-weight : 100
+weight : 10
 
 # Role/position
-role: Microsoft India
+#role: Microsoft India
 
 # Organizations/Affiliations
 organizations:

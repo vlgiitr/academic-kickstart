@@ -7,12 +7,12 @@ authors:
 - gosain
 
 # Is this the primary user of the site?
-superuser: false
+superuser : false
 
-weight : 130
+weight : 10
 
 # Role/position
-role: Rubrik India
+#role: Rubrik India
 
 # Organizations/Affiliations
 organizations:

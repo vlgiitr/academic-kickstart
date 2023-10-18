@@ -6,13 +6,13 @@ title: Huzaib Ul Hassan
 authors:
 - huazib
 
-weight : 20
+weight : 10
 
 # Is this the primary user of the site?
-superuser: false
+superuser : false
 
 # Role/position
-role: Co-President
+#role: Co-President
 
 # Organizations/Affiliations
 organizations:

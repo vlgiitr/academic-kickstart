@@ -7,15 +7,15 @@ authors:
 - barvin
 
 # Is this the primary user of the site?
-superuser: false
+superuser : false
 
 
-weight : 20
+weight : 10
 
 
 
 # Role/position
-role: Masters, IIIT-H
+#role: Masters, IIIT-H
 
 # Organizations/Affiliations
 organizations:

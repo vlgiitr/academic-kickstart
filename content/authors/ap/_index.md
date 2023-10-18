@@ -7,12 +7,12 @@ authors:
 - ap
 
 # Is this the primary user of the site?
-superuser: false
+superuser : false
 
-weight : 30
+weight : 10
 
 # Role/position
-role: Research Assistant, MPI-IS
+#role: Research Assistant, MPI-IS
 
 # Organizations/Affiliations
 organizations:

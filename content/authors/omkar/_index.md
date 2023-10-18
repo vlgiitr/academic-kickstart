@@ -7,12 +7,12 @@ authors:
 - omkar
 
 # Is this the primary user of the site?
-superuser: false
+superuser : false
 
 weight : 10
 
 # Role/position
-role: Co-President
+#role: Co-President
 
 # Organizations/Affiliations
 organizations:
