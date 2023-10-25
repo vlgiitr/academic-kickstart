@@ -59,9 +59,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ac-alpha
-- icon: facebook
-  icon_pack: fab
-  link: https://facebook.com/chaubeyG29
+- icon: user
+  icon_pack: fas
+  link: https://ashutoshchaubey.in/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ashutosh-chaubey/

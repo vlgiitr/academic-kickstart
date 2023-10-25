@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Memory Network Plus"
+title: "Dynamic Memory Network Plus - 2018"
 subtiltle: "" 
 summary: "Pytorch implementation of the paper Dynamic Memory Network for Visual and Textual Question Answering"
 date: "2018-06-08T00:00:00Z"

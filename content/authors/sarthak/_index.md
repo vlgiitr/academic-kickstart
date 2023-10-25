@@ -53,6 +53,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sarthak-gupta-130045202/
+- icon: user
+  icon_pack: fas
+  link: https://mr-sarthakgupta.github.io//
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

@@ -39,6 +39,11 @@
   weight = 80
 
 [[main]]
+  name = "Alumni"
+  url = "alums/"
+  weight = 85
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 90

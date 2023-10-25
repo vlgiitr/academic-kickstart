@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Layer Level Loss Optimisation"
+title: "Layer Level Loss Optimisation - 2023"
 subtitle: ""
 summary: "Experiment to test a method to train neural networks inspired by the Forward-Forward Algorithm "
 tags: []

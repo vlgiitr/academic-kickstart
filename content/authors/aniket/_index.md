@@ -56,9 +56,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/aniket-agarwal1999
-- icon: facebook
-  icon_pack: fab
-  link: https://facebook.com/aniket.agarwal.9484941
+- icon: user
+  icon_pack: fas
+  link: https://aniket-agarwal1999.github.io/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/aniket-agarwal1999/

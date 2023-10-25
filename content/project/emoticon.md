@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Group-Level-Emotion-Recognition"
+title: "Group-Level-Emotion-Recognition - 2018"
 subtitle: ""
 summary: "Paper Implementation of a end-to-end model for jointly learning the scene and facial features of an image for group-level emotion recognition."
 tags: []
