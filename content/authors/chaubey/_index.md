@@ -7,15 +7,15 @@ authors:
 - chaubey
 
 # Is this the primary user of the site?
-superuser: false
+superuser : false
 
 
-weight : 40
+weight : 10
 
 
 
 # Role/position
-role: Data Scientist at LG Ads
+#role: Data Scientist at LG Ads
 
 # Organizations/Affiliations
 organizations:

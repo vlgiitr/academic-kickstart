@@ -7,12 +7,12 @@ authors:
 - rusia
 
 # Is this the primary user of the site?
-superuser: false
+superuser : false
 
-weight : 110
+weight : 10
 
 # Role/position
-role: Uber India
+#role: Uber India
 
 # Organizations/Affiliations
 organizations:

@@ -7,12 +7,12 @@ authors:
 - shashank
 
 # Is this the primary user of the site?
-superuser: false
+superuser : false
 
-weight : 40
+weight : 10
 
 # Role/position
-role: Project head
+#role: Project head
 
 # Organizations/Affiliations
 organizations:

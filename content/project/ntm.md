@@ -3,7 +3,7 @@
 
 title: "Neural Turing Machines"
 subtitle: ""
-summary: "Paper Implementation"
+summary: "This PyTorch repository provides a reliable implementation of a Neural Turing Machine (NTM) for training, evaluating, and visualizing results across Copy, Repeat Copy, Associative Recall, and Priority Sort tasks, with results matching those reported in the paper."
 tags: []
 categories: []
 date: "2018-09-26T00:00:00Z"

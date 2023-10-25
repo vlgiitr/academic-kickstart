@@ -7,12 +7,12 @@ authors:
 - mishra
 
 # Is this the primary user of the site?
-superuser: false
+superuser : false
 
-weight : 120
+weight : 10
 
 # Role/position
-role: Research Engineer, Liv.ai
+#role: Research Engineer, Liv.ai
 
 # Organizations/Affiliations
 organizations:

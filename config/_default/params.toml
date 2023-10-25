@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "vlgiitr18@gmail.com"
+email = ""
 phone = ""
 
 # Address
@@ -106,8 +106,8 @@ office_hours = []
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "facebook", icon_pack = "fab", name = "Message Us", link = "https://www.facebook.com/vlgiitr"},
-  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  {icon = "instagram", icon_pack = "fab", name = "Follow Us", link = "https://www.instagram.com/vlgiitr"},
+  {icon = "slack", icon_pack = "fab", name = "Join Our Slack", link = "https://join.slack.com/t/vlgopenspace/shared_invite/zt-1mcy1x2rn-fbUA~u20Myj_ee6HjiUwng"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]

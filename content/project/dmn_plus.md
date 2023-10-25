@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Memory Network Plus"
 subtiltle: "" 
-summary: "Paper Implementation"
+summary: "Pytorch implementation of the paper Dynamic Memory Network for Visual and Textual Question Answering"
 date: "2018-06-08T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""

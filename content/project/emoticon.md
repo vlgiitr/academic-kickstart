@@ -3,7 +3,7 @@
 
 title: "Group-Level-Emotion-Recognition"
 subtitle: ""
-summary: "Paper Implementation"
+summary: "Paper Implementation of a end-to-end model for jointly learning the scene and facial features of an image for group-level emotion recognition."
 tags: []
 categories: []
 date: "2018-11-06T00:00:00Z"

@@ -3,7 +3,7 @@
 
 title: "DL Topics"
 subtitle: ""
-summary: "Resources"
+summary: "Resources for DL"
 tags: []
 categories: []
 date: "2020-09-13T00:00:00Z"

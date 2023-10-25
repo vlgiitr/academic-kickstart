@@ -7,15 +7,15 @@ authors:
 - ayushman
 
 # Is this the primary user of the site?
-superuser: false
+superuser : false
 
 
-weight : 50
+weight : 10
 
 
 
 # Role/position
-role: ACM Representative
+#role: ACM Representative
 
 # Organizations/Affiliations
 organizations:

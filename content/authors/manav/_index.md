@@ -7,7 +7,7 @@ authors:
 - manav
 
 # Is this the primary user of the site?
-superuser: false
+superuser : false
 
 
 weight : 10
@@ -15,7 +15,7 @@ weight : 10
 
 
 # Role/position
-# role: Jedi Master
+# #role: Jedi Master
 
 # Organizations/Affiliations
 organizations:
@@ -53,9 +53,9 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/citations?user=9TPamcgAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/maanavgoyal
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/maanavgoyal
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/manav-goyal-966a75216/

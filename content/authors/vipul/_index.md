@@ -9,10 +9,10 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-weight : 20
+weight : 11
 
 # Role/position
-role: Co-President
+#role: Co-President
 
 # Organizations/Affiliations
 organizations:

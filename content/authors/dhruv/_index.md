@@ -7,12 +7,12 @@ authors:
 - dhruv
 
 # Is this the primary user of the site?
-superuser: false
+superuser : false
 
-weight : 30
+weight : 10
 
 # Role/position
-role: Discussion head
+#role: Discussion head
 
 # Organizations/Affiliations
 organizations:

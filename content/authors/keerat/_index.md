@@ -7,12 +7,12 @@ authors:
 - keerat
 
 # Is this the primary user of the site?
-superuser: false
+superuser : false
 
-weight : 80
+weight : 10
 
 # Role/position
-role: Jedi Master
+#role: Jedi Master
 
 # Organizations/Affiliations
 organizations:
