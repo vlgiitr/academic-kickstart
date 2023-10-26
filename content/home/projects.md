@@ -22,7 +22,7 @@ subtitle = ""
   filter_default = 0
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 1
+  count = 5
 
   # [[content.filter_button]]
   #   name = "All"
@@ -38,7 +38,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List

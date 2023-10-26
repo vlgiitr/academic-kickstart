@@ -57,9 +57,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/aarushgupta
-- icon: facebook
-  icon_pack: fab
-  link: https://facebook.com/aarush363
+- icon: user
+  icon_pack: fas
+  link: https://sites.google.com/view/aarush363
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/aarush98/

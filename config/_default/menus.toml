@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Papers We Read"
-  url = "https://vlgiitr.github.io/papers_we_read/"
+  url = "papers_we_read/"
   weight = 41
 
 [[main]]
@@ -30,13 +30,18 @@
 
 [[main]]
   name = "Blogs"
-  url = "blogs/"
+  url = "#posts"
   weight = 60
 
 [[main]]
   name = "Team"
   url = "team/"
   weight = 80
+
+[[main]]
+  name = "Alumni"
+  url = "alums/"
+  weight = 85
 
 [[main]]
   name = "Contact"

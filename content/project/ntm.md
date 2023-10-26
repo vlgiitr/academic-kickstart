@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Neural Turing Machines"
+title: "Neural Turing Machines - 2018"
 subtitle: ""
 summary: "This PyTorch repository provides a reliable implementation of a Neural Turing Machine (NTM) for training, evaluating, and visualizing results across Copy, Repeat Copy, Associative Recall, and Priority Sort tasks, with results matching those reported in the paper."
 tags: []

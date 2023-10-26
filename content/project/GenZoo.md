@@ -1,5 +1,5 @@
 ---
-title: "GenZoo"
+title: "GenZoo - 2019"
 subtiltle: ""
 summary: "GenZoo is a repository that provides implementations of generative models in various frameworks"
 date: "2019-10-20T00:00:00Z"
