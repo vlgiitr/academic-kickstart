@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Papers We Read"
-  url = "https://vlgiitr.github.io/papers_we_read/"
+  url = "papers_we_read/"
   weight = 41
 
 [[main]]
