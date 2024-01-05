@@ -1,6 +1,5 @@
 ---
 title: "Papers We Read"
-date: "5-1-2004"  # Add a page title.
 ---
 ## Introduction
 
@@ -35,6 +34,7 @@ This repo houses summaries for various excitng works in the field of **Deep Lear
 - #### Learning Video Representations from Large Language Models [[Paper](https://arxiv.org/pdf/2212.04501.pdf)][[Review](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/Video_Representation_LLM.md)]
 
   - Yue Zhao, Ishan Misra, Philipp Krähenbüh, Rohit Girdhar, Facebook AI Research- Meta AI, University of Texas, Austin
+
 ### 2021
 
 - #### GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds [[Paper](https://arxiv.org/pdf/2104.07659)][[Review](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/GANcraft.md)]
