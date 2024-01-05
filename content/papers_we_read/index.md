@@ -1,5 +1,7 @@
-# Deep Learning Paper Summaries
-
+---
+title: "Papers We Read"
+date: "5-1-2004"  # Add a page title.
+---
 ## Introduction
 
 This repo houses summaries for various excitng works in the field of **Deep Learning**. You can contribute summaries of your own. Check out our [contributing guide](#contributing) to start contributing. Happy Reading & Summarizing!
