@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Papers We Read"
-  url = "papers_we_read/"
+  url = "summaries/"
   weight = 41
 
 [[main]]
