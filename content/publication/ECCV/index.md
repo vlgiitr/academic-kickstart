@@ -1,6 +1,6 @@
 +++
 title = "Benchmarking Object Detectors with COCO: A New Path Forward"
-date = 2024-02-24T00:00:00
+date = 2024-03-27T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
