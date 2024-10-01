@@ -72,7 +72,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Third-Year
+- Fourth-Year
 ---
 <!-- 
 Otaku, interested in learning new stuff about anything and everything. Loves anime and good music more than anything. Current interests involve Computer Vision, Robotics, Finance and business management. Wants to open something of his own somewhere along the road.
