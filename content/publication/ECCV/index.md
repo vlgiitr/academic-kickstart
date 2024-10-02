@@ -50,7 +50,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "https://eccv.ecva.net/media/PosterPDFs/ECCV%202024/1898.png?t=1727812339.5914767"
 url_source = ""
 
 # Custom links (optional).
