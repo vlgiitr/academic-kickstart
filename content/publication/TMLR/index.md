@@ -19,7 +19,7 @@ authors = ["Shivank Garg", "Manyana Tiwari"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Transactions on Machine Learning Research (TMLR), 2024"
+publication = "Transactions on Machine Learning Research, NeurIPS Journal Track, TMLR, 2024"
 publication_short = "TMLR 24"
 
 # Abstract and optional shortened version.
