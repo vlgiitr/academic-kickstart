@@ -13,7 +13,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 projects: []
+weight: 10
 ---
 
 This repository contains the code of our model submitted for the ICMI 2018 EmotiW Group-Level Emotion Recognition Challenge. The model was ranked 4th in the challenge. The paper proposes an end-to-end model for jointly learning the scene and facial features of an image for group-level emotion recognition.
-

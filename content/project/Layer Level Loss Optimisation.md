@@ -13,6 +13,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 projects: []
+weight: 5
 ---
 An experiment in testing a novel method to train neural networks inspired by the Forward-Forward Algorithm proposed by Geoffrey Hinton by updating weights of a layer by calculating the loss at each intermediate layer instead of backpropagating the losses
 through the entire network.

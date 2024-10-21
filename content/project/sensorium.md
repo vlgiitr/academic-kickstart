@@ -13,8 +13,9 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 projects: []
+weight: 6
 ---
 
-The NeurIPS 2022 The SENSORIUM competition aimed to find the best neural predictive model that can predict the activity of thousands of neurons in the primary visual cortex of mice in response to natural images. 
+The NeurIPS 2022 The SENSORIUM competition aimed to find the best neural predictive model that can predict the activity of thousands of neurons in the primary visual cortex of mice in response to natural images.
 
 In our submission for this competition, we attempted to improve the baseline model for the competition track- Sensorium+, where neural activity was to be predicted with given visual stimuli and other behavioural variables.
