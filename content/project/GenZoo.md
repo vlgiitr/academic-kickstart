@@ -14,6 +14,7 @@ url_code: "https://github.com/vlgiitr/GenZoo"
 url_pdf: ""
 url_slides: ""
 url_video: ""
+weight: 9
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -23,6 +24,3 @@ url_video: ""
 ---
 
 GenZoo is a repository that provides implementations of generative models in various frameworks, namely Tensorflow and Pytorch. This was a project taken up by VLG-IITR for the summers of 2019, done with the collaborative efforts of various students.
-
-
-

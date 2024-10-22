@@ -14,6 +14,7 @@ url_code: "https://github.com/vlgiitr/dmn-plus"
 url_pdf: ""
 url_slides: ""
 url_video: ""
+weight: 12
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -23,5 +24,3 @@ url_video: ""
 ---
 
 This is the Pytorch implementation of the paper Dynamic Memory Network for Visual and Textual Question Answering. This paper is an improved version of the original paper Ask Me Anything: Dynamic Memory Networks for Natural Language Processing. The major difference between these ideas is in the functioning of the input module and the memory module which has been explained in detail in the IPython notebook file of this repo.
-
-
