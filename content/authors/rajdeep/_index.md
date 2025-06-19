@@ -77,6 +77,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Second-Year
+- Third-Year
 ---
-Hello, I'm Rajdeep, a sophomore from Mathematics and Computing at IIT Roorkee, with a deep passion for Deep Learning and Pure Mathematics.
+Hello, I'm Rajdeep, a student from Mathematics and Computing at IIT Roorkee, with a deep passion for Deep Learning and Pure Mathematics.

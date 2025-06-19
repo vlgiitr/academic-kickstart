@@ -77,6 +77,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Second-Year
+- Third-Year
 ---
 Hey! Currently pursuing my Bachelor of Technology (BTech) in Engineering Physics at IIT Roorkee. Focused on AI and LLM alignment research along with some work in exploring the multimodal LLMs. Interested in various fields in physics as well and have been working on some projects that explore the intersection of these fields.
