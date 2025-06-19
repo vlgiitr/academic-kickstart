@@ -77,6 +77,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Second-Year
+- Third-Year
 ---
 Hi! Currently an undergrad in Data Science and AI (DSAI) branch at IIT Roorkee. An avid reader with a deep passion for learning. Currently exploring various fields in AI/ML such as AI security, ML Compilation etc.

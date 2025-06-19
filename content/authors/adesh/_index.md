@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Aakash Gupta
+title: Adesh Gupta
 
 # Username (this should match the folder name)
 authors:
-- aakash
+- adesh
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,7 +23,7 @@ organizations:
   url: "https://www.iitr.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: An avid reader and AI enthusiast.
+bio: Interested in mathematics, dev and AI.
 
 #interests:
 #- Artificial Intelligence
@@ -49,10 +49,10 @@ bio: An avid reader and AI enthusiast.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:aakashgupta.j21@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:adesh_kg@ma.iitr.ac.in'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/AakashGupta21
+  link: https://github.com/4adex
 
 # - icon: twitter
 # icon_pack: fab
@@ -63,7 +63,7 @@ social:
 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/aakash-gupta-3b1b41237/
+  link: https://www.linkedin.com/in/adesh-g/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -77,6 +77,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Second-Year
+- Third-Year
 ---
-Hi! I’m an ECE undergrad at IIT Roorkee and  keenly interested in programming , Deep Learning, Machine Learning  . My primary areas of interest are Computer Vision, Natural Language Processing . Hit me up any time for a conversation about Lawn Tennis or DL/ML!!!
+Hi there, I am Adesh, pursuing Mathematics and Computing at IIT Roorkee, currently exploring my interests in development, deep learning and problem solving in general.

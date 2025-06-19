@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Siddarth Gupta
+title: Pratham Singla
 
 # Username (this should match the folder name)
 authors:
-- siddarth
+- pratham
 
 # Is this the primary user of the site?
 superuser: false
@@ -49,10 +49,10 @@ bio: An avid reader and AI enthusiast.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:siddharth_g@cs.iitr.ac.in'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:pratham_s@me.iitr.ac.in'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/iMmOrTaL2121
+  link: https://github.com/PrathamSingla15
 
 # - icon: twitter
 # icon_pack: fab
@@ -63,7 +63,7 @@ social:
 
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/siddharth-gupta-063123300/
+  link: https://www.linkedin.com/in/pratham-singla-a132732a7/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -77,6 +77,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Second-Year
+- Third-Year
 ---
-
